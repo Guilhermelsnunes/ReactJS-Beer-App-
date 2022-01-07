@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.main-container{
+  background-color: white;
+  padding: 15px;
+}
+
+.BeerImage {
+  height: 250px;
+}
+
+li{
+  list-style-type: none;
+}
